@@ -228,7 +228,6 @@ PRODUCT_PACKAGES += \
     libkeymasterprovision \
     libkeymasterutils \
     libmialgoengine \
-    libqcbor \
     libqtikeymaster4 \
     libsensorcal \
     libsns_device_mode_stub \
