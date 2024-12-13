@@ -2972,7 +2972,7 @@ cc_prebuilt_library_shared {
                 "liblog",
                 "libcdsprpc",
                 "libssc",
-                "libprotobuf-cpp-full-v29",
+                "libprotobuf-cpp-full-vendorcompat",
                 "libz",
                 "libc",
                 "libm",
